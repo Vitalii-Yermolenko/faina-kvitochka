@@ -1,0 +1,123 @@
+[
+    {
+        "id": 468791,
+        "name":"Браслет з чорнобривцем",
+        "collection":"Чорнобривці",
+        "count":5,
+        "color":"чорний",
+        "form":"овал",
+        "weight": 150,
+        "size": 3,
+        "price":440,
+        "type":"браслет",
+        "image":"./img/ukraine.jfif",
+        "lable": "top"
+    },
+    {
+            "id": 468798,
+            "name":"Браслет з чорнобривцем",
+            "collection":"Чорнобривці",
+            "count":5,
+            "color":"чорний",
+            "form":"овал",
+            "weight": 150,
+            "size": 3,
+            "price":440,
+            "type":"браслет",
+            "image":"./img/chornobrivci.jpg"
+            },
+            {
+                "id": 468781,
+                "name":"Браслет з чорнобривцем",
+                "collection":"Чорнобривці",
+                "count":0,
+                "color":"чорний",
+                "form":"овал",
+                "weight": 150,
+                "size": 3,
+                "price":440,
+                "type":"браслет",
+                "image":"./img/chornobrivci.jpg"
+                },
+                {
+                    "id": 464791,
+                    "name":"Браслет з чорнобривцем",
+                    "collection":"Чорнобривці",
+                    "count":5,
+                    "color":"чорний",
+                    "form":"овал",
+                    "weight": 150,
+                    "size": 3,
+                    "price":440,
+                    "type":"браслет",
+                    "image":"./img/chornobrivci.jpg"
+                    },
+                    {
+                        "id": 168701,
+                        "name":"Браслет з чорнобривцем",
+                        "collection":"Чорнобривці",
+                        "count":5,
+                        "color":"чорний",
+                        "form":"овал",
+                        "weight": 150,
+                        "size": 3,
+                        "price":440,
+                        "type":"браслет",
+                        "image":"./img/chornobrivci.jpg"
+                        },
+                        {
+                            "id": 464791,
+                            "name":"Браслет з чорнобривцем",
+                            "collection":"Чорнобривці",
+                            "count":0,
+                            "color":"чорний",
+                            "form":"овал",
+                            "weight": 150,
+                            "size": 3,
+                            "price":440,
+                            "type":"браслет",
+                            "image":"./img/chornobrivci.jpg"
+                            },
+                            {
+                                "id": 168391,
+                                "name":"Браслет з чорнобривцем",
+                                "collection":"Чорнобривці",
+                                "count":5,
+                                "color":"чорний",
+                                "form":"овал",
+                                "weight": 150,
+                                "size": 3,
+                                "price":440,
+                                "type":"браслет",
+                                "image":"./img/chornobrivci.jpg"
+                                },
+                                {
+                                    "id": 464791,
+                                    "name":"Браслет з чорнобривцем",
+                                    "collection":"Чорнобривці",
+                                    "count":5,
+                                    "color":"чорний",
+                                    "form":"овал",
+                                    "weight": 150,
+                                    "size": 3,
+                                    "price":440,
+                                    "type":"браслет",
+                                    "image":"./img/chornobrivci.jpg"
+                                    },
+                                    {
+                                        "id": 168791,
+                                        "name":"Браслет з чорнобривцем",
+                                        "collection":"Чорнобривці",
+                                        "count":5,
+                                        "color":"чорний",
+                                        "form":"овал",
+                                        "weight": 150,
+                                        "size": 3,
+                                        "price":440,
+                                        "type":"браслет",
+                                        "image":"./img/chornobrivci.jpg"
+                                        }
+                              
+        
+
+]

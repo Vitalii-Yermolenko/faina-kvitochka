@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Black and pink magic",
+        "price":940,
+        "image":"./img/black_and_pink_magic.jfif",
+        "article": 4589632,
+        "color": "pink"
+    },
+    {
+        "id": 2 ,
+        "name": "Ukraine",
+        "price": 930,
+        "image":"./img/ukraine.jfif",
+        "article": 4584632 ,
+        "color": "yellow"
+    },
+    {
+        "id": 3,
+        "name": "Autumn meadow",
+        "price": 650,
+        "image":"./img/autumn.jfif",
+        "article": 4589631,
+        "color": "brown" 
+    },
+    {
+        "id": 4,
+        "name": "Autumn colors",
+        "price": 580,
+        "image":"./img/any1.jfif",
+        "article": 2589632,
+        "color":"brown"
+    },
+    {
+        "id": 5,
+        "name": "A drop of autumn",
+        "image":"./img/any2.jfif",
+        "price": 950,
+        "article": 4589663,
+        "color": "brown"
+    },
+    {
+        "id": 6,
+        "name": "Сornflowers",
+        "price": 230,
+        "image":"./img/blue.jfif",
+        "article": 4679632,
+        "color": "blue"
+    },
+    {
+        "id": 7,
+        "name": "Lavender notes",
+        "price": 160,
+        "image":"./img/lavand.webp",
+        "article": 4590632,
+        "color": "white"
+    },
+    {
+        "id": 8,
+        "name": "Dandelion",
+        "price": 820,
+        "image":"./img/any3.webp",
+        "article": 4429632,
+        "color": "blue"
+    },
+    {
+        "id": 9,
+        "name": "Corn and a golden potal",
+        "price": 520,
+        "image":"./img/blue_gold.webp",
+        "article": 4529632,
+        "color": "gold"
+    },
+    {
+        "id": 10,
+        "name": "Muscari earrings",
+        "price": 200,
+        "image":"./img/muskari.webp",
+        "article": 4589112,
+        "color": "black"
+    },
+    {
+        "id": 11,
+        "name":"Summer mood",
+        "price": 250,
+        "image":"./img/summer.jfif",
+        "article": 4511132,
+        "color":"white" 
+    },
+    {
+        "id": 12,
+        "name": "Earrings with a tiger lily",
+        "price": 190,
+        "image":"./img/281691047_1078005012797964_4635056308458964265_n.webp",
+        "article": 4558942,
+        "color": "orange"
+    }
+]
